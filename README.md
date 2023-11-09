@@ -17,7 +17,11 @@ class Carson {
 * Microsoft Macro Assembler (MASM)
 * R
 ### Developer Tools ⚙️
-* VS Code, Visual Studio, MobaXterm, RStudio, Git
+* VS Code
+* Visual Studio
+* MobaXterm
+* RStudio
+* Git
 
 ## Projects 🗺️
 | Project Name 💬 | Current Progress ⏳ |

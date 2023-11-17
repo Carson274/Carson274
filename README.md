@@ -25,6 +25,7 @@ class Carson {
 ## Projects 🗺️
 | Project Name 💬 | Current Progress ⏳ |
 | :---         | :---         |
-| Personal Website 🧍 | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ - 30% |
-| YouTube Ad Blocker 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% |
-| Club Website 🌟 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% |
+| Personal Website 🧍 | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ - 30% | - 🐛 Fixing bugs
+| YouTube Ad Blocker 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | - 🐛 Fixing bugs
+| Club Website 🌟 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | - 🎨 Designing front end
+| Hangul App | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | - 🔥 Training CNN model

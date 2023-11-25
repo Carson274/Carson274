@@ -26,6 +26,6 @@ class Carson {
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | Personal Website 🧍 | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ - 30% | 🐛 Fixing bugs |
-| YouTube Ad Blocker 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🐛 Fixing bugs |
-| Club Website 🌟 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🎨 Designing front end |
+| YouTube Ad Blocker 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 99% | 📤 Publishing |
+| Club Website 🌟 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ - 20% | 🎨 Creating event description transitions |
 | Hangul App | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🔥 Training CNN model |

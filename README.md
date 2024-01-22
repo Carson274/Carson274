@@ -4,31 +4,17 @@ class Carson {
   private:
     int age = 19;
   public:
-    string[] hobbies = new string[] { "Tennis", "Video Games", "Sleeping", "Coding", "Watching Modern Family" };
+    vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Watching Modern Family" };
 }
 ```
 
 ## Credentials 💼
 ### Languages 🧠
-* JavaScript/TypeScript
-* HTML/CSS
-* C++
-* C
-* Microsoft Macro Assembler (MASM)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,c)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
-* React
-* Node.js
-* React Native
-* Express
-* TailwindCSS
+[![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)](https://skillicons.dev)
 ### Developer Tools ⚙️
-* Git
-* VS Code
-* MobaXterm
-* Postman
-* Vite
-* Github Pages
-* RStudio
+[![My Developer Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vite)](https://skillicons.dev)
 
 ## Projects 🗺️
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
@@ -38,4 +24,4 @@ class Carson {
 | Club Website 🌟 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ - 20% | 🎨 Creating event description transitions |
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ - 40% | 🔥 Recovering from the hackathon |
 | Wumpus Game 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done with base, adding 2-player functionality |
-| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ - 80% | 🛜 Making the front-end not look awful |
+| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🛜 Publishing... |

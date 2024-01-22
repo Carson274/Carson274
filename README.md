@@ -21,7 +21,7 @@ class Carson {
 | :---         | :---         | :---         |
 | [Personal Website](https://carson274.github.io/Personal-Website/) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done, installation found in repo |
-| Club Website 🌟 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ - 20% | 🎨 Creating event description transitions |
+| [Club Website](https://github.com/Carson274/Kinetic-Website) 🌟 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ - 20% | 🎨 Creating event description transitions |
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ - 40% | 🔥 Recovering from the hackathon |
-| Wumpus Game 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done with base, adding 2-player functionality |
+| [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done with base, adding 2-player functionality |
 | [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🛜 Publishing... |

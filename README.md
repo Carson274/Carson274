@@ -4,7 +4,7 @@ class Carson {
   private:
     int age = 19;
   public:
-    vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Watching Modern Family" };
+    vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Watchingn Anime" };
 }
 ```
 
@@ -25,3 +25,5 @@ class Carson {
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ - 40% | 🔥 Recovering from the hackathon |
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done with base, adding 2-player functionality |
 | [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🛜 Publishing... |
+| [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 0% | 🙏🏻 Humble beginnings |
+| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 0% | 🌲 Starting fresh! |

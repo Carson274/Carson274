@@ -12,7 +12,7 @@ class Carson {
 ### Languages 🧠
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,c)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
-[![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)](https://skillicons.dev)
+[![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vue)](https://skillicons.dev)
 ### Developer Tools ⚙️
 [![My Developer Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vite)](https://skillicons.dev)
 

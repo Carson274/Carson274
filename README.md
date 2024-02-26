@@ -19,7 +19,7 @@ class Carson {
 | [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🛜 Publishing... |
 | [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by Spring Break |
 | [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🎨 Implementing front-end design |
-| [Shape Filling U-Net]([https://github.com/sebat2004/AutoTailor](https://github.com/Carson274/Shape-Filler)) 📝 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ - 80% | 🔧 Making minor adjustments |
+| [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ - 80% | 🔧 Making minor adjustments |
 
 ## Credentials 💼
 ### Languages 🧠

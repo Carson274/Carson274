@@ -22,7 +22,7 @@ class Carson {
 
 ## Credentials 💼
 ### Languages 🧠
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,c)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,c,python)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
 [![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vue)](https://skillicons.dev)
 ### Databases 📁

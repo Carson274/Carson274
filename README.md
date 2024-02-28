@@ -12,14 +12,13 @@ class Carson {
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | [Personal Website](https://carson274.github.io/Personal-Website/) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! |
-| [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done, installation found in repo |
-| [Club Website](https://github.com/Carson274/Kinetic-Website) 🌟 | 🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜ - 20% | 🎨 Creating event description transitions |
+| [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ - 40% | 🔥 Recovering from the hackathon |
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ - 90% | 🛜 Publishing... |
+| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! (Waiting for Spotify) |
 | [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by Spring Break |
-| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🎨 Implementing front-end design |
-| [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ - 80% | 🔧 Making minor adjustments |
+| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by the end of 2024 |
+| [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 
 ## Credentials 💼
 ### Languages 🧠

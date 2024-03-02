@@ -19,7 +19,7 @@ class Carson {
 | [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by Spring Break |
 | [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by the end of 2024 |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🍳 Let us cook! |
+| [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ - 30% | 🍳 RESTful API created! |
 
 ## Credentials 💼
 ### Languages 🧠

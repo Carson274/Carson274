@@ -2,7 +2,7 @@
 ```
 class Carson {
   private:
-    int age = 19;
+    int age = 20;
   public:
     vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Watching Anime" };
 }
@@ -11,15 +11,15 @@ class Carson {
 ## Projects 🗺️
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
-| [Personal Website](https://carson274.github.io/Personal-Website/) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! |
-| [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ - 40% | 🔥 Recovering from the hackathon |
-| [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! (Waiting for Spotify) |
-| [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by Spring Break |
-| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by the end of 2024 |
+| [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Published! |
+| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (Waiting for Spotify) |
+| [Personal Website](https://carson274.github.io/Personal-Website/) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
+| [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
+| [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+| [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+| [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Working on it... |
+| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by the end of 2024 |
 
 ## Credentials 💼
 ### Languages 🧠

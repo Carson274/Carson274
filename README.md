@@ -13,13 +13,12 @@ class Carson {
 | :---         | :---         | :---         |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (Waiting for Spotify) |
+| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Personal Website](https://carson274.github.io/Personal-Website/) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Sleep App](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ - 50% | 🙏🏻 Working on it... |
-| [Resume Rewriter](https://github.com/sebat2004/AutoTailor) 📝 | 🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜ - 10% | 🙏🏻 Hoping to finish by the end of 2024 |
+| [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ - 50% | 🙏🏻 Working on it... |
 
 ## Credentials 💼
 ### Languages 🧠

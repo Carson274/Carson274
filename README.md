@@ -11,6 +11,7 @@ class Carson {
 ## Projects 🗺️
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
+| [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
@@ -18,7 +19,6 @@ class Carson {
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ - 80% | 🙏🏻 Sooo closeee |
 
 ## Credentials 💼
 ### Languages 🧠

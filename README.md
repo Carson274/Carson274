@@ -19,8 +19,7 @@ class Carson {
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🔮 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ - 80% | ⏳ Fixing bugs... |
-| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️ - 80% | ⏳ Uhhh |
+| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 
 ## Credentials 💼
 ### Languages 🧠

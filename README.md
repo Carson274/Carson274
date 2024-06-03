@@ -11,6 +11,7 @@ class Carson {
 ## Projects 🗺️
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
+| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
@@ -19,14 +20,13 @@ class Carson {
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch (Fall 2023 Hackathon)](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 
 ## Credentials 💼
 ### Languages 🧠
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,cpp,c,python,go)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,mysql,go)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
 [![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vue,nextjs,pytorch,)](https://skillicons.dev)
 ### Databases 📁
-[![My Databases](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev)
+[![My Databases](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 ### Developer Tools ⚙️
-[![My Developer Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vite,aws,figma)](https://skillicons.dev)
+[![My Developer Tools](https://skillicons.dev/icons?i=git,github,postman,vite,aws,figma,vscode,visualstudio)](https://skillicons.dev)

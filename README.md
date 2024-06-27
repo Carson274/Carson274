@@ -30,3 +30,5 @@ class Carson {
 [![My Databases](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
 ### Developer Tools ⚙️
 [![My Developer Tools](https://skillicons.dev/icons?i=git,github,postman,vite,aws,figma,vscode,visualstudio)](https://skillicons.dev)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=carson274)](https://github.com/carson274/github-profile-trophy)

@@ -23,11 +23,11 @@ class Carson {
 
 ## Credentials 💼
 ### Languages 🧠
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,mysql,go)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,swift,go)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
-[![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,vue,nextjs,pytorch,)](https://skillicons.dev)
+[![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,flask,pytorch,cypress)](https://skillicons.dev)
 ### Databases 📁
-[![My Databases](https://skillicons.dev/icons?i=mongo,firebase)](https://skillicons.dev)
+[![My Databases](https://skillicons.dev/icons?i=mongo,firebase,mysql)](https://skillicons.dev)
 ### Developer Tools ⚙️
 [![My Developer Tools](https://skillicons.dev/icons?i=git,github,postman,vite,aws,figma,vscode,visualstudio)](https://skillicons.dev)
 

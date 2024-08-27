@@ -11,8 +11,8 @@ class Carson {
 ## Projects 🗺️
 | Project Name 💬 | Progress Bar ⏳ | Status ✅ |
 | :---         | :---         | :---         |
-| [LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Fixing things... |
-| [Personal Website v2 🧍‍♂️ | 🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️ - 30% | ⏳ Taking a step back... |
+| LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Fixing things... |
+| Personal Website v2 🧍‍♂️ | 🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️ - 30% | ⏳ Taking a step back... |
 | [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |

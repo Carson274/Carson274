@@ -4,15 +4,15 @@ class Carson {
   private:
     int age = 20;
   public:
-    vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Watching Anime", "Ukulele" };
+    vector<string> hobbies = { "Tennis", "Video Games", "Sleeping", "Coding", "Anime", "Ukulele" };
 }
 ```
 
 ## Projects 🗺️
-| Project Name 💬 | Progress Bar ⏳ | Status ✅ |
+| Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Fixing things... |
-| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 30% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
+| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
 | [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://boxofficebattles.lol/) |

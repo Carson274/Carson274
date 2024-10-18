@@ -12,9 +12,10 @@ class Carson {
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Fixing things... |
+| [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |
 | [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
-| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+| [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/pursend) |
+| [Slumped Stats (Winter 2024 Hackathon)](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/slumped-stats) |
 | [Box Office Battles (Winter 2024 Hackathon)](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://boxofficebattles.lol/) |
 | [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |

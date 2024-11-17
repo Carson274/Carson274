@@ -11,7 +11,8 @@ class Carson {
 ## Projects 🗺️
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
-| LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Fixing things... |
+| DaysUntilKorea 🛫 | 🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️ - 40% | 🛠️ Creating widget |
+| LinguaSketch (iOS version) 🖌️ | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Paused for later |
 | [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |
 | [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
 | [PurSend (Spring 2024 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/pursend) |

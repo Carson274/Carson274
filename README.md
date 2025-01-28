@@ -4,7 +4,7 @@ class Carson {
   private:
     int age = 20;
   public:
-    vector<string> hobbies = { "Tennis", "Coding", "Anime", "Ukulele", "Sleeping" };
+    vector<string> hobbies = { "Tennis", "Coding", "Ukulele", "Sleeping" };
 }
 ```
 

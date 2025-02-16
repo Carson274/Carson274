@@ -1,16 +1,17 @@
-# Hellooo 👋
+# Hellooo 👋 I'm Carson!
 ```
 class Carson {
   private:
     int age = 20;
   public:
-    vector<string> hobbies = { "Tennis", "Coding", "Ukulele", "Sleeping" };
+    vector<string> hobbies = { "Tennis", "Coding", "Ukulele", "Guitar", "Sleeping" };
 }
 ```
 
 ## Projects 🗺️
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
+| Mood Map (private for now) ❤️‍🩹 | 🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ - 10% | 🔧 Working on it! |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
 | [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |
 | [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) |

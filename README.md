@@ -4,13 +4,14 @@ class Carson {
   private:
     int age = 21;
   public:
-    vector<string> hobbies = { "Tennis", "Coding", "Ukulele", "Guitar", "Sleeping" };
+    vector<string> hobbies = { "Tennis", "Coding", "Ukulele", "Badminton", "Guitar", "Sleeping" };
 }
 ```
 
 ## Projects 🗺️
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
+| Roll Call Brawl 💸 | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Time's ticking... |
 | Mood Map (private for now) ❤️‍🩹 | 🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ - 10% | 🔧 Working on it! |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
 | [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |

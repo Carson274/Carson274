@@ -11,8 +11,8 @@ class Carson {
 ## Projects 🗺️
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
-| [Roll Call Brawl (BeavHacks '25 Hackathon)](https://github.com/Carson274/Roll-Call-Brawl) 💸 | 🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️ - 50% | ⏳ Time's ticking... |
-| Mood Map (private for now) ❤️‍🩹 | 🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️ - 10% | 🔧 Working on it! |
+| [Oregon State Computer Science Purity Test](https://github.com/Carson274/OregonStatePurityTest) 🤓 | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ - 70% | 🚀 [Deployed! (WIP)](https://oregonstatepuritytest.onrender.com/) |
+| [Roll Call Brawl (BeavHacks '25 Hackathon)](https://github.com/Carson274/Roll-Call-Brawl) 💸 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/roll-call-brawl) |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
 | [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |
 | [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) |

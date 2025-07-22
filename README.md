@@ -11,7 +11,7 @@ class Carson {
 ## Projects 🗺️
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
-| [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ - 70% | 🚀 [Deployed! (WIP)](https://beaver-cs-purity.web.app) |
+| [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://beaverpurity.com/) |
 | [Roll Call Brawl (BeavHacks '25 Hackathon)](https://github.com/Carson274/Roll-Call-Brawl) 💸 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/roll-call-brawl) |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
 | [Crowd (DubHacks '24 Hackathon)](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |

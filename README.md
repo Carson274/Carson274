@@ -28,7 +28,7 @@ class Carson {
 
 ## Credentials 💼
 ### Languages 🧠
-[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,swift,go)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,dart,swift,go)](https://skillicons.dev)
 ### Frameworks and Libraries 🏗️
 [![My Frameworks and Libraries](https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind,flask,pytorch,cypress)](https://skillicons.dev)
 ### Databases 📁

@@ -8,7 +8,10 @@ class Carson {
 }
 ```
 
-## Projects 🗺️
+## Check Out My Website
+### 👉 <a href="https://www.carsonsecrest.me/" target="_blank">www.carsonsecrest.me</a> 👈
+
+## Projects (Chronologically Ordered)
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://beaverpurity.com/) |

@@ -9,7 +9,16 @@ class Carson {
 ```
 
 ## Check Out My Website
-### 👉 <a href="https://www.carsonsecrest.me/" target="_blank">www.carsonsecrest.me</a> 👈
+<h3 align="center">
+  👉 <a href="https://www.carsonsecrest.me/">www.carsonsecrest.me</a> 👈
+</h3>
+
+<p align="center">
+  <a href="https://www.carsonsecrest.me/">
+    <img width="2880" height="600" alt="Website_Logo_Transition (1)" src="https://github.com/user-attachments/assets/1f851e85-9641-4c53-b122-6648ffabcd4f" />
+  </a>
+</p>
+
 
 ## Projects (Chronologically Ordered)
 | Name 💬 | Progress ⏳ | Status ✅ |

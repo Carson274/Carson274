@@ -19,7 +19,6 @@ class Carson {
   </a>
 </p>
 
-
 ## Projects (Chronologically Ordered)
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |

@@ -19,7 +19,7 @@ class Carson {
   </a>
 </p>
 
-## Projects - Chronologically Ordered, Most Recent at the Top
+## Projects - in reverse chronological order
 | Name 💬 | Progress ⏳ | Status ✅ |
 | :---         | :---         | :---         |
 | [SPOOT](https://github.com/Jakhangir18/BeaverHacks-2026) (Spring '26 Hackathon) 👂 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
@@ -39,6 +39,9 @@ class Carson {
 | [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) (Fall '23 Hackathon) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+
+## Version History
+<img width="1349" height="485" alt="PNG image" src="https://github.com/user-attachments/assets/12f62d8b-f519-4d83-8910-878dc3ea0f05" />
 
 ## Credentials 💼
 ### Languages 🧠

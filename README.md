@@ -40,9 +40,6 @@ class Carson {
 | [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [LinguaSketch](https://github.com/sebat2004/linguasketch) (Fall '23 Hackathon) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 
-## Version History
-<img width="1349" height="485" alt="PNG image" src="https://github.com/user-attachments/assets/12f62d8b-f519-4d83-8910-878dc3ea0f05" />
-
 ## Credentials 💼
 ### Languages 🧠
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,c,cs,cpp,python,dart,swift,go)](https://skillicons.dev)

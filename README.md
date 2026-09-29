@@ -24,12 +24,12 @@ class Carson {
 | :---         | :---         | :---         |
 | [SPOOT](https://github.com/Jakhangir18/BeaverHacks-2026) (Spring '26 Hackathon) 👂 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [AccentGuessr](https://github.com/Carson274/Accent-Guessr) 🤔 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% |  ✅ [Deployed!](https://accent-guessr.vercel.app) |
-| [Watch Your Sleep](https://github.com/Carson274/Optimal-Wakefulness) (Capstone) ⌚️ | 🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️ - 70% | ⏳ In progress... |
+| [Watch Your Sleep](https://github.com/Carson274/Optimal-Wakefulness) (Capstone) ⌚️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
 | [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://beaverpurity.com/) |
 | [Roll Call Brawl](https://github.com/Carson274/Roll-Call-Brawl) (Spring '25 Hackathon) 💸 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/roll-call-brawl) |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
 | [Crowd](https://github.com/sebat2004/crowd) (Fall '24 Hackathon) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/crowd-fjct15) |
-| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️ - 90% | ✅ [Deployed!](https://www.carsonsecrest.me/) (And being improved on 🔧) |
+| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
 | [PurSend (Spring '24 Hackathon)](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/pursend) |
 | [Slumped Stats](https://github.com/Carson274/Sleep-App) (Winter '24 Hackathon) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/slumped-stats) |
 | [Box Office Battles](https://github.com/Carson274/Box-Office-Battles) (Winter '24 Hackathon) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://boxofficebattles.lol/) |

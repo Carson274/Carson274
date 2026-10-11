@@ -25,7 +25,7 @@ class Carson {
 | :---         | :---         | :---         |
 | [SPOOT](https://github.com/Jakhangir18/BeaverHacks-2026) 👂 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://judge.beaverhacks.org/cmlfqho300000kv04wi9199a5/projects/cmoq6kaau00yzjv04otw9fqd8) |
 | [AccentGuessr](https://github.com/Carson274/Accent-Guessr) 🤔 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% |  ✅ [Deployed!](https://accent-guessr.vercel.app) |
-| [Watch Your Sleep](https://github.com/Carson274/Optimal-Wakefulness) (Capstone) ⌚️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+| [Watch Your Sleep](https://github.com/Carson274/Optimal-Wakefulness) (Capstone) ⌚️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! - [Preview](https://watch-your-sleep.vercel.app/) |
 | [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://beaverpurity.com/) |
 | [Roll Call Brawl](https://github.com/Carson274/Roll-Call-Brawl) 💸 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://devpost.com/software/roll-call-brawl) |
 | [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |

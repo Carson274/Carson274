@@ -19,27 +19,91 @@ class Carson {
   </a>
 </p>
 
+
 ## Projects
-### In reverse chronological order
-| Name 💬 | Progress ⏳ | Status ✅ |
-| :---         | :---         | :---         |
-| [SPOOT](https://github.com/Jakhangir18/BeaverHacks-2026) 👂 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://judge.beaverhacks.org/cmlfqho300000kv04wi9199a5/projects/cmoq6kaau00yzjv04otw9fqd8) |
-| [AccentGuessr](https://github.com/Carson274/Accent-Guessr) 🤔 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% |  ✅ [Deployed!](https://accent-guessr.vercel.app) |
-| [Watch Your Sleep](https://github.com/Carson274/Optimal-Wakefulness) (Capstone) ⌚️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! - [Preview](https://watch-your-sleep.vercel.app/) |
-| [Beaver CS Purity Test](https://github.com/Carson274/BeaverCsPurity) 🤓 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://beaverpurity.com/) |
-| [Roll Call Brawl](https://github.com/Carson274/Roll-Call-Brawl) 💸 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://devpost.com/software/roll-call-brawl) |
-| [DaysUntilKorea](https://github.com/Carson274/DaysUntilKorea) 🛫 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! (TestFlight) |
-| [Crowd](https://github.com/sebat2004/crowd) 🎉 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://devpost.com/software/crowd-fjct15) |
-| [Personal Website v2](https://github.com/Carson274/Personal-Website-V2) 🧍‍♂️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://www.carsonsecrest.me/) |
-| [PurSend](https://github.com/ipoogleduck/PurSend)💲 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Demo](https://devpost.com/software/pursend) |
-| [Slumped Stats](https://github.com/Carson274/Sleep-App) 💤 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Devpost](https://devpost.com/software/slumped-stats) |
-| [Box Office Battles](https://github.com/Carson274/Box-Office-Battles) 🎥 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://boxofficebattles.lol/) |
-| [Shape Filling U-Net](https://github.com/Carson274/Shape-Filler) ⚫️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [Playlist Polyglot](https://github.com/Carson274/Playlist-Polyglot) 🎵 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
-| [Personal Website v1](https://github.com/Carson274/Personal-Website) 🧍 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ [Deployed!](https://carson274.github.io/Personal-Website/) |
-| [Wumpus Game](https://github.com/Carson274/Wumpus-Game) 👾 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Deployed! |
-| [YouTube Ad Skipper](https://github.com/Carson274/Ad-Skipper) ❌ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
-| [LinguaSketch](https://github.com/sebat2004/linguasketch) 🗣️ | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 - 100% | ✅ Done! |
+
+### Hackathon Wins 🏆
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://quackhacks3.seufert.workers.dev"><img src="assets/projects/poses-for-dummies.jpg" width="100%" alt="Poses for Dummies" title="3rd place, Pipeworks track · QuackHacks 3 (2026)"></a><br>
+      <b>🥉 Poses for Dummies</b><br>
+      <sub><a href="https://quackhacks3.seufert.workers.dev">Live</a> · <a href="https://2026.quackhacks.org/projects/poses-for-dummies">Demo</a> · <a href="https://github.com/mileshs/quackhacks3">Repo</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://judge.beaverhacks.org/cmlfqho300000kv04wi9199a5/projects/cmoq6kaau00yzjv04otw9fqd8"><img src="assets/projects/spoot.jpg" width="100%" alt="SPOOT" title="3rd place, Gemini track · BeaverHacks 2026"></a><br>
+      <b>🥉 SPOOT</b><br>
+      <sub><a href="https://judge.beaverhacks.org/cmlfqho300000kv04wi9199a5/projects/cmoq6kaau00yzjv04otw9fqd8">Demo</a> · <a href="https://github.com/Jakhangir18/BeaverHacks-2026">Repo</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://devpost.com/software/pursend"><img src="assets/projects/pursend.jpg" width="100%" alt="PurSend" title="1st overall · App Development Club Spring 2024"></a><br>
+      <b>🥇 PurSend</b><br>
+      <sub><a href="https://devpost.com/software/pursend">Demo</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://devpost.com/software/slumped-stats"><img src="assets/projects/slumped-stats.jpg" width="100%" alt="Slumped Stats" title="2nd overall · App Development Club Winter 2024"></a><br>
+      <b>🥈 Slumped Stats</b><br>
+      <sub><a href="https://devpost.com/software/slumped-stats">Demo</a> · <a href="https://github.com/Carson274/Sleep-App">Repo</a></sub>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://devpost.com/software/box-office-battles"><img src="assets/projects/box-office-battles.jpg" width="100%" alt="Box Office Battles" title="2nd overall · BeaverHacks 2024"></a><br>
+      <b>🥈 Box Office Battles</b><br>
+      <sub><a href="https://devpost.com/software/box-office-battles">Demo</a> · <a href="https://github.com/Carson274/Box-Office-Battles">Repo</a></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+### Apps & Games
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://carpetstudios.github.io"><img src="assets/projects/junk-flight.jpg" width="100%" alt="Junk Flight" title="3D iPhone game in Unity, now in TestFlight"></a><br>
+      <b>Junk Flight</b><br>
+      <sub><a href="https://carpetstudios.github.io">Site</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://accent-guessr.vercel.app"><img src="assets/projects/accent-guessr.jpg" width="100%" alt="Accent Guessr" title="Guess where accents come from on a world map"></a><br>
+      <b>Accent Guessr</b><br>
+      <sub><a href="https://accent-guessr.vercel.app">Live</a> · <a href="https://github.com/Carson274/Accent-Guessr">Repo</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://watch-your-sleep.vercel.app/"><img src="assets/projects/watch-your-sleep.jpg" width="100%" alt="Watch Your Sleep" title="Apple Watch alarm that wakes you during light sleep (senior capstone)"></a><br>
+      <b>Watch Your Sleep</b><br>
+      <sub><a href="https://watch-your-sleep.vercel.app/">Site</a></sub>
+    </td>
+  </tr>
+</table>
+</div>
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <a href="https://beaverpurity.com/"><img src="assets/projects/beaver-cs-purity-test.jpg" width="100%" alt="Beaver CS Purity Test" title="Checklist of the shared experiences of studying CS at Oregon State"></a><br>
+      <b>Beaver CS Purity Test</b><br>
+      <sub><a href="https://beaverpurity.com/">Live</a> · <a href="https://github.com/Carson274/BeaverCsPurity">Repo</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://devpost.com/software/roll-call-brawl"><img src="assets/projects/roll-call-brawl.jpg" width="100%" alt="Roll Call Brawl" title="Class-attendance game with location-based check-ins and friendly competition"></a><br>
+      <b>Roll Call Brawl</b><br>
+      <sub><a href="https://devpost.com/software/roll-call-brawl">Demo</a> · <a href="https://github.com/Carson274/Roll-Call-Brawl">Repo</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://devpost.com/software/crowd-fjct15"><img src="assets/projects/crowd.jpg" width="100%" alt="Crowd" title="Discover nearby events, register for tickets, and organize your own"></a><br>
+      <b>Crowd</b><br>
+      <sub><a href="https://devpost.com/software/crowd-fjct15">Demo</a> · <a href="https://github.com/sebat2004/crowd">Repo</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/sebat2004/linguasketch"><img src="assets/projects/linguasketch.jpg" width="100%" alt="LinguaSketch" title="Language-learning app that pairs flashcards with your own drawings"></a><br>
+      <b>LinguaSketch</b><br>
+      <sub><a href="https://github.com/sebat2004/linguasketch">Repo</a></sub>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 ## Credentials 💼
 
